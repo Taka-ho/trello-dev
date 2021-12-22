@@ -1,0 +1,148 @@
+2021-12-18T16:31:00.364682+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-18T16:31:00.365394+09:00 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.27) initializing of server in progress as process 43
+2021-12-18T16:31:00.383531+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-18T16:31:00.733395+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-18T16:31:01.740300+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-18T16:31:01.741050+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-18T16:31:01.872766+09:00 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2021-12-18T16:31:09.001722+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-18T16:31:09.001744+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.27) starting as process 92
+2021-12-18T16:31:09.020981+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-18T16:31:09.165102+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-18T16:31:09.334901+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-18T16:31:09.335604+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-18T16:31:09.336753+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-12-18T16:31:09.337183+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-12-18T16:31:09.338808+09:00 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-12-18T16:31:09.356058+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: /var/run/mysqld/mysqlx.sock
+2021-12-18T16:31:09.356220+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.27'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Community Server - GPL.
+2021-12-18T16:31:16.528809+09:00 13 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.27).
+2021-12-18T16:31:17.951026+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.27)  MySQL Community Server - GPL.
+2021-12-18T16:31:18.771776+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-18T16:31:18.771797+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.27) starting as process 1
+2021-12-18T16:31:18.783569+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-18T16:31:18.924797+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-18T16:31:19.123919+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-18T16:31:19.124633+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-18T16:31:19.126014+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-12-18T16:31:19.126655+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-12-18T16:31:19.128387+09:00 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-12-18T16:31:19.149932+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2021-12-18T16:31:19.149997+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.27'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
+2021-12-18T21:28:23.898490+09:00 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.27).
+2021-12-18T21:28:25.098756+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.27)  MySQL Community Server - GPL.
+2021-12-18T21:30:57.346722+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-18T21:30:57.346834+09:00 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.27) initializing of server in progress as process 43
+2021-12-18T21:30:57.358577+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-18T21:30:57.763848+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-18T21:30:58.935131+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-18T21:30:58.935950+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-18T21:30:58.980411+09:00 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2021-12-18T21:31:08.182363+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-18T21:31:08.182425+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.27) starting as process 92
+2021-12-18T21:31:08.204834+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-18T21:31:08.385581+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-18T21:31:08.678777+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-18T21:31:08.683177+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-18T21:31:08.684814+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-12-18T21:31:08.685737+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-12-18T21:31:08.688741+09:00 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-12-18T21:31:08.731503+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: /var/run/mysqld/mysqlx.sock
+2021-12-18T21:31:08.731707+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.27'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Community Server - GPL.
+2021-12-18T21:31:18.620139+09:00 13 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.27).
+2021-12-18T21:31:20.246086+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.27)  MySQL Community Server - GPL.
+2021-12-18T21:31:20.883571+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-18T21:31:20.883637+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.27) starting as process 1
+2021-12-18T21:31:20.897079+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-18T21:31:21.074121+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-18T21:31:21.323823+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-18T21:31:21.324794+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-18T21:31:21.326519+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-12-18T21:31:21.327330+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-12-18T21:31:21.330254+09:00 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-12-18T21:31:21.359892+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2021-12-18T21:31:21.360131+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.27'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
+2021-12-18T21:40:30.027343+09:00 0 [System] [MY-013172] [Server] Received SHUTDOWN from user <via user signal>. Shutting down mysqld (Version: 8.0.27).
+2021-12-18T21:40:30.783712+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.27)  MySQL Community Server - GPL.
+2021-12-18T21:40:34.998713+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-18T21:40:34.998757+09:00 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.27) initializing of server in progress as process 42
+2021-12-18T21:40:35.009500+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-18T21:40:35.441606+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-18T21:40:36.639815+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-18T21:40:36.640725+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-18T21:40:36.689863+09:00 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2021-12-18T21:40:45.877755+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-18T21:40:45.877817+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.27) starting as process 91
+2021-12-18T21:40:45.898432+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-18T21:40:46.059393+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-18T21:40:46.342145+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-18T21:40:46.343241+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-18T21:40:46.344970+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-12-18T21:40:46.345796+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-12-18T21:40:46.348553+09:00 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-12-18T21:40:46.391280+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: /var/run/mysqld/mysqlx.sock
+2021-12-18T21:40:46.391292+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.27'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Community Server - GPL.
+2021-12-20T13:54:32.145446+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-20T13:54:32.146266+09:00 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.27) initializing of server in progress as process 43
+2021-12-20T13:54:32.164537+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-20T13:54:32.592857+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-20T13:54:33.671341+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-20T13:54:33.671977+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-20T13:54:33.699187+09:00 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2021-12-20T13:54:40.877468+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-20T13:54:40.877492+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.27) starting as process 92
+2021-12-20T13:54:40.896335+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-20T13:54:41.044251+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-20T13:54:41.275989+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-20T13:54:41.277365+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-20T13:54:41.279530+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-12-20T13:54:41.280519+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-12-20T13:54:41.282971+09:00 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-12-20T13:54:41.305299+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: /var/run/mysqld/mysqlx.sock
+2021-12-20T13:54:41.305777+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.27'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Community Server - GPL.
+2021-12-20T13:54:49.400108+09:00 13 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.27).
+2021-12-20T13:54:50.809784+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.27)  MySQL Community Server - GPL.
+2021-12-20T13:54:51.635298+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-20T13:54:51.635320+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.27) starting as process 1
+2021-12-20T13:54:51.647255+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-20T13:54:51.801455+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-20T13:54:52.003573+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-20T13:54:52.004330+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-20T13:54:52.006230+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-12-20T13:54:52.006920+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-12-20T13:54:52.009189+09:00 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-12-20T13:54:52.033165+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2021-12-20T13:54:52.033330+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.27'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
+2021-12-20T14:15:42.443101+09:00 0 [ERROR] [MY-010095] [Server] Failed to access directory for --secure-file-priv. Please make sure that directory exists and is accessible by MySQL Server. Supplied value : /var/lib/mysql-files
+2021-12-20T14:15:42.446642+09:00 0 [ERROR] [MY-010119] [Server] Aborting
+2021-12-22T17:05:13.974598+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-22T17:05:13.975373+09:00 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.27) initializing of server in progress as process 43
+2021-12-22T17:05:13.992590+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-22T17:05:14.337828+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-22T17:05:15.066610+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-22T17:05:15.067238+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-22T17:05:15.132226+09:00 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2021-12-22T17:05:21.611665+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-22T17:05:21.611686+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.27) starting as process 92
+2021-12-22T17:05:21.630988+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-22T17:05:21.777755+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-22T17:05:22.009230+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-22T17:05:22.010586+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-22T17:05:22.012503+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-12-22T17:05:22.013261+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-12-22T17:05:22.015877+09:00 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-12-22T17:05:22.037248+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: /var/run/mysqld/mysqlx.sock
+2021-12-22T17:05:22.037514+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.27'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Community Server - GPL.
+2021-12-22T17:05:29.556313+09:00 13 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.27).
+2021-12-22T17:05:30.552148+09:00 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.27)  MySQL Community Server - GPL.
+2021-12-22T17:05:30.803968+09:00 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2021-12-22T17:05:30.803990+09:00 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.27) starting as process 1
+2021-12-22T17:05:30.816877+09:00 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-12-22T17:05:30.963447+09:00 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-12-22T17:05:31.154544+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2021-12-22T17:05:31.155825+09:00 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2021-12-22T17:05:31.157244+09:00 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-12-22T17:05:31.157920+09:00 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-12-22T17:05:31.159492+09:00 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+2021-12-22T17:05:31.180171+09:00 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060, socket: /var/run/mysqld/mysqlx.sock
+2021-12-22T17:05:31.180272+09:00 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.27'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.

@@ -1,0 +1,31 @@
+version: "3"
+services:
+  db:
+    container_name: "trello-dev_db"   
+    build: ./Docker/MySQL
+    volumes:
+      - ./logs:/var/log/mysql
+      - ./docker/mysql/my.cnf:/etc/mysql/conf.d/my.cnf 
+    image: mysql:8.0
+    environment:
+      - MYSQL_DATABASE=${DB_NAME}
+      - MYSQL_USER=${DB_USER}
+      - MYSQL_PASSWORD=${DB_PASS}
+      - MYSQL_ROOT_PASSWORD=${DB_PASS}
+      - TZ=${TZ}
+    ports:
+      - ${DB_PORT}:3306
+
+  app:
+    image: openjdk:17
+    build: ./Docker/Java
+    container_name: trello-dev_app
+    tty: true
+    working_dir: ./trello-dev/src
+    volumes:
+      - trello-dev/src # Spring Bootのプロジェクト
+    ports:
+      - 8098:8098 # 通常実行
+      - 5050:5050 # デバッグ用
+    depends_on:
+      - db # 「db」の後で起動
