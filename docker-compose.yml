@@ -21,9 +21,8 @@ services:
     build: ./Docker/Java
     container_name: trello-dev_app
     tty: true
-    working_dir: ./trello-dev/src
     volumes:
-      - trello-dev/src # Spring Bootのプロジェクト
+      - /trello-dev/src # Spring Bootのプロジェクト
     ports:
       - 8098:8098 # 通常実行
       - 5050:5050 # デバッグ用
